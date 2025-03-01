@@ -147,6 +147,7 @@
 
 .bet-button-link {
   text-decoration: none;
+  z-index: 1;
 }
 
 .lots {
@@ -297,8 +298,7 @@
   text-underline-offset: 4px;
 }
 
-.footer__social-list{
-
+.footer__social-list {
   display: flex;
   justify-content: end;
   gap: 48px;
